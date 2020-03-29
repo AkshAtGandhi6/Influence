@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189398588945",
+    "firebase_url": "https://influencer-app-9bfef.firebaseio.com",
+    "project_id": "influencer-app-9bfef",
+    "storage_bucket": "influencer-app-9bfef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189398588945:android:c42eb63ed015d59e529bb0",
+        "android_client_info": {
+          "package_name": "com.example.influencerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189398588945-qprblaf5562bcf0agp6bvspdh21f9cjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.influencerapp",
+            "certificate_hash": "fcd83d12856f685e1101cf2d401e8e57139fc2a2"
+          }
+        },
+        {
+          "client_id": "189398588945-irhv3d57g20pp2fk3fdddus7bu8uhdat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnS7t9DEGTfO9jiMJ5rzUtUBE9IhdfzGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189398588945-irhv3d57g20pp2fk3fdddus7bu8uhdat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

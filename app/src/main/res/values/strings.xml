@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Influencer App</string>
+
+
+        <string-array name="product_array">
+            <item>Product 1</item>
+            <item>Product 2</item>
+            <item>Peoduct 3</item>
+            <item>Product 4</item>
+            <item>Product 5</item>
+        </string-array>
+    </resources>
